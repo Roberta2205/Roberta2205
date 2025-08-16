@@ -17,8 +17,8 @@ Conecte-se comigo! :notebook_with_decorative_cover:
 <br>
 <br>
 Linkedin:<br>
-<a>href="https://www.linkedin.com/in/roberta-lau-67a7732b4/"</a> <br>
+<a href="https://www.linkedin.com/in/roberta-lau-67a7732b4/"</a> <br>
 <br>
 Instagram:
 <br>
-<a>href="https://www.instagram.com/robertalau_/"</a>
+<a href="https://www.instagram.com/robertalau_/"</a>
