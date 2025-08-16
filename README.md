@@ -13,12 +13,18 @@ Sou dedicada, organizada, e trabalho bem em equipe. Amo estudar e estou sempre e
 <br>
 Meus projetos ainda são simples, mas estudo diariamente para melhorá-los cada vez mais. <br>
 <br>
-Conecte-se comigo! :notebook_with_decorative_cover:
+Conecte-se comigo! :notebook_with_decorative_cover: <br>
+
 <br>
 <br>
+
 Linkedin:<br>
-<a href="https://www.linkedin.com/in/roberta-lau-67a7732b4/"</a> <br>
+
+<a href="https://www.linkedin.com/in/roberta-lau-67a7732b4/"</a>
+
 <br>
-Instagram:
+<br>
+
+Instagram: <br>
 <br>
 <a href="https://www.instagram.com/robertalau_/"</a>
